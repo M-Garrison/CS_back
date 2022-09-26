@@ -1,1 +1,1 @@
-web: gunicorn django_rest_api.wsgi
+web: gunicorn geocaching_api.wsgi
